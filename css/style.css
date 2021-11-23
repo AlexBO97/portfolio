@@ -59,19 +59,19 @@ body {
 }
 
 ::selection {
-  background-color: #fcf1e7;
+  background-color: #ff5e64b5;
   color: #1f2044;
   text-shadow: none;
 }
 
 -webkit-::selection {
-  background-color: #fcf1e7;
+  background-color: #ff5e64b5;
   color: #1f2044;
   text-shadow: none;
 }
 
 ::-moz-selection {
-  background-color: #fcf1e7;
+  background-color: #ff5e64b5;
   color: #1f2044;
   text-shadow: none;
 }
@@ -99,7 +99,7 @@ img {
 }
 
 .text-primary {
-	color: #f79784 !important;
+	color: #464989 !important;
 }
 
 @media (min-width: 1200px) {
@@ -1201,8 +1201,8 @@ h3.slide-title {
 }
 
 .slide-title .text-typed {
-	background: #fcf1e7;
-	box-shadow: #fcf1e7 0 0 0 5px;
+	background: #ff5e64b5;
+	box-shadow: #ff5e64b5 0 0 0 5px;
 	display: inline-block;
 	min-height: .85em;
 	line-height: .85;
@@ -1239,7 +1239,7 @@ h3.slide-title {
 	width: 8.625rem;
 	height: 8.625rem;
 	position: absolute;
-	right: 50%;
+	right: 55%;
 	margin-right: 7.5rem;
 	transform: rotate(-103deg);
 }
